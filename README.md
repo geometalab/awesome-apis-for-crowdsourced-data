@@ -1,4 +1,4 @@
-# awesome-data
+# awesome-apis-for-crowdsourced-data
 
 ## License
 
