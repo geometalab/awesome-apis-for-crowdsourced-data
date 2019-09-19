@@ -10,18 +10,20 @@ Free, editable map of the world.
 ## Wikidata (WD)
 Labelled graph database connected to other Wikimedia projects.
 
-* MediaWiki API to access Wikidata: https://www.wikidata.org/w/api.php
+* MediaWiki API to access Wikidata: https://www.wikidata.org/w/api.php 
 * SPARQL endpoint to access Wikidata's data directly (without API): https://query.wikidata.org/bigdata/namespace/wdq/sparql One can test queries via a GUI here: https://query.wikidata.org/
 * _tbc._
 
 ## Wikipedia (WP)
 Free encyclopedia.
 
+* WP API example with DE page of Schloss Rapperswil: https://de.wikipedia.org/w/api.php?format=json&action=query&prop=extracts&exintro&explaintext&redirects=1&origin=*&titles=Schloss_Rapperswil
 * _tbc._
 
 ## Wikimedia Commons (Pics) 
 Repository of openly licensed media, especially photos.
 
+* Wikimedia Commons API: https://tools.wmflabs.org/magnus-toolserver/commonsapi.php
 * _tbc._
 
 ## Other
