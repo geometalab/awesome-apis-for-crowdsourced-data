@@ -5,19 +5,21 @@
 * Nominatim API: https://nominatim.org/release-docs/develop/api/Overview/
 * _tbc._
 
-## Wikidata ()
+## Wikidata (WD)
 Labelled raph database
 
 * SPARQL endnpoint?
 * _tbc._
 
-## Wikipedia
+## Wikipedia (WP)
 Articles.
 
 * _tbc._
 
-## Wikimedia Commons 
+## Wikimedia Commons (Pics) 
 Media, especially photos.
+
+* _tbc._
 
 ## Other
 Other crowdsourced data projects with a common open data license.
