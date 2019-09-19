@@ -8,9 +8,10 @@ Free, editable map of the world.
 * _tbc._
 
 ## Wikidata (WD)
-Labelled graph database about Wikimedia projects.
+Labelled graph database connected to other Wikimedia projects.
 
-* SPARQL endpoint?
+* MediaWiki API to access Wikidata: https://www.wikidata.org/w/api.php
+* SPARQL endpoint to access Wikidata's data directly (without API): https://query.wikidata.org/bigdata/namespace/wdq/sparql One can test queries via a GUI here: https://query.wikidata.org/
 * _tbc._
 
 ## Wikipedia (WP)
