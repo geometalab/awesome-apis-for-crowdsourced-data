@@ -1,4 +1,4 @@
-# awesome-apis-for-crowdsourced-data
+# Awesome APIs for Crowdsourced Data
 
 ## OpenStreetMap (OSM)
 
