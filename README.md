@@ -1,23 +1,24 @@
 # Awesome APIs for Crowdsourced Data
 
 ## OpenStreetMap (OSM)
+Free, editable map of the world.
 
 * Nominatim API: https://nominatim.org/release-docs/develop/api/Overview/
 * _tbc._
 
 ## Wikidata (WD)
-Labelled raph database
+Labelled graph database about Wikimedia projects.
 
 * SPARQL endnpoint?
 * _tbc._
 
 ## Wikipedia (WP)
-Articles.
+Free encyclopedia.
 
 * _tbc._
 
 ## Wikimedia Commons (Pics) 
-Media, especially photos.
+Repository of openly licensed media, especially photos.
 
 * _tbc._
 
