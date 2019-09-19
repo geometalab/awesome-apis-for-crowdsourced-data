@@ -3,13 +3,14 @@
 ## OpenStreetMap (OSM)
 Free, editable map of the world.
 
+* Overpass API: ...
 * Nominatim API: https://nominatim.org/release-docs/develop/api/Overview/
 * _tbc._
 
 ## Wikidata (WD)
 Labelled graph database about Wikimedia projects.
 
-* SPARQL endnpoint?
+* SPARQL endpoint?
 * _tbc._
 
 ## Wikipedia (WP)
