@@ -4,7 +4,9 @@
 Free, editable map of the world.
 
 * Overpass API: ...
-* Nominatim API: https://nominatim.org/release-docs/develop/api/Overview/ Use 'Reverse Geocoding' to get JSON-formatted information of the location, e.g. the address of the given coordinates. https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat={lat}&lon={lon}
+* Nominatim API: https://nominatim.org/release-docs/develop/api/Overview/
+  * Use 'Reverse Geocoding' to get JSON-formatted information of the location, e.g. the address of the given coordinates. Example: https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=-34.44076&lon=-58.70521
+  * Use 'Address lookup' to get JSON-formatted information of the location of the given OSM-id. Example: https://nominatim.openstreetmap.org/lookup?osm_ids=W211154364&format=json
 * _tbc._
 
 ## Wikidata (WD)
