@@ -1,5 +1,6 @@
 Regular **Markdown** here.
 
+First diagramm as PlantUML:
 <!--
 @startuml firstDiagram
 
@@ -13,13 +14,8 @@ Bob -> Alice: Hi!
 
 Some more markdown.
 
-@startuml firstDiagram
-
-Alice -> Bob: Hello
-Bob -> Alice: Hi!
-	
-@enduml
-
+Second diagram as GraphViz:
+<!--
 ```dot
 digraph L {
 
@@ -33,3 +29,5 @@ digraph L {
 
 }
 ```
+
+![](secondDiagram.svg)
